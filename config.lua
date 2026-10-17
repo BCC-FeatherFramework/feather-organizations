@@ -24,6 +24,8 @@ Config = {
             ['feather-shops'] = true,
             ['feather-jobs'] = true,
             ['feather-assets'] = true,
+            ['feather-property'] = true,
+            ['feather-licenses'] = true,
             ['bcc-society'] = true,
             ['bcc-banks'] = true
         }
