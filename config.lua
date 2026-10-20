@@ -26,6 +26,7 @@ Config = {
             ['feather-assets'] = true,
             ['feather-property'] = true,
             ['feather-licenses'] = true,
+            ['feather-justice'] = true, -- verifies organization case parties
             ['bcc-society'] = true,
             ['bcc-banks'] = true
         }
